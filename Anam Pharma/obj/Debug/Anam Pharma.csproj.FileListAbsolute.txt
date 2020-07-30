@@ -1,0 +1,218 @@
+c:\users\ali_razor\documents\visual studio 2013\Projects\Anam Pharma\Anam Pharma\bin\Debug\Anam Pharma.exe.config
+c:\users\ali_razor\documents\visual studio 2013\Projects\Anam Pharma\Anam Pharma\bin\Debug\Anam Pharma.exe
+c:\users\ali_razor\documents\visual studio 2013\Projects\Anam Pharma\Anam Pharma\bin\Debug\Anam Pharma.pdb
+c:\users\ali_razor\documents\visual studio 2013\Projects\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.csprojResolveAssemblyReference.cache
+c:\users\ali_razor\documents\visual studio 2013\Projects\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Login.resources
+c:\users\ali_razor\documents\visual studio 2013\Projects\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Properties.Resources.resources
+c:\users\ali_razor\documents\visual studio 2013\Projects\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.csproj.GenerateResource.Cache
+c:\users\ali_razor\documents\visual studio 2013\Projects\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.exe
+c:\users\ali_razor\documents\visual studio 2013\Projects\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.pdb
+c:\users\ali_razor\documents\visual studio 2013\Projects\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Main.resources
+c:\users\ali_razor\documents\visual studio 2013\Projects\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Registration.resources
+C:\Users\Ali_Razor\Desktop\Anam Pharma_2\Anam Pharma\bin\Debug\Anam Pharma.exe.config
+C:\Users\Ali_Razor\Desktop\Anam Pharma_2\Anam Pharma\obj\Debug\Anam Pharma.exe
+C:\Users\Ali_Razor\Desktop\Anam Pharma_2\Anam Pharma\obj\Debug\Anam Pharma.pdb
+C:\Users\Ali_Razor\Desktop\Anam Pharma_2\Anam Pharma\bin\Debug\Anam Pharma.exe.manifest
+C:\Users\Ali_Razor\Desktop\Anam Pharma_2\Anam Pharma\bin\Debug\Anam Pharma.application
+C:\Users\Ali_Razor\Desktop\Anam Pharma_2\Anam Pharma\bin\Debug\Anam Pharma.exe
+C:\Users\Ali_Razor\Desktop\Anam Pharma_2\Anam Pharma\bin\Debug\Anam Pharma.pdb
+C:\Users\Ali_Razor\Desktop\Anam Pharma_2\Anam Pharma\obj\Debug\Anam Pharma.csprojResolveAssemblyReference.cache
+C:\Users\Ali_Razor\Desktop\Anam Pharma_2\Anam Pharma\obj\Debug\Anam_Pharma.Calculator.resources
+C:\Users\Ali_Razor\Desktop\Anam Pharma_2\Anam Pharma\obj\Debug\Anam_Pharma.Client.resources
+C:\Users\Ali_Razor\Desktop\Anam Pharma_2\Anam Pharma\obj\Debug\Anam_Pharma.Employee.resources
+C:\Users\Ali_Razor\Desktop\Anam Pharma_2\Anam Pharma\obj\Debug\Anam_Pharma.Login.resources
+C:\Users\Ali_Razor\Desktop\Anam Pharma_2\Anam Pharma\obj\Debug\Anam_Pharma.Main.resources
+C:\Users\Ali_Razor\Desktop\Anam Pharma_2\Anam Pharma\obj\Debug\Anam_Pharma.Properties.Resources.resources
+C:\Users\Ali_Razor\Desktop\Anam Pharma_2\Anam Pharma\obj\Debug\Anam_Pharma.AboutUs.resources
+C:\Users\Ali_Razor\Desktop\Anam Pharma_2\Anam Pharma\obj\Debug\Anam_Pharma.Stock.resources
+C:\Users\Ali_Razor\Desktop\Anam Pharma_2\Anam Pharma\obj\Debug\Anam Pharma.csproj.GenerateResource.Cache
+C:\Users\Ali_Razor\Desktop\Anam Pharma_2\Anam Pharma\obj\Debug\Anam Pharma.exe.manifest
+C:\Users\Ali_Razor\Desktop\Anam Pharma_2\Anam Pharma\obj\Debug\Anam Pharma.application
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\bin\Debug\Anam Pharma.exe.config
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\bin\Debug\Anam Pharma.exe.manifest
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\bin\Debug\Anam Pharma.application
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\bin\Debug\Anam Pharma.exe
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\bin\Debug\Anam Pharma.pdb
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Calculator.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Employee.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Login.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Properties.Resources.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.AboutUs.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Product.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.csproj.GenerateResource.Cache
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.exe.manifest
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.application
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.exe
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.pdb
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.csprojResolveAssemblyReference.cache
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\obj\Debug\Interop.AcroPDFLib.dll
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.csproj.ResolveComReference.cache
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\bin\Debug\Interop.AcroPDFLib.dll
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\bin\Debug\Patagames.Pdf.dll
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\bin\Debug\Patagamse.Pdf.WinForms.dll
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\bin\Debug\PdfiumViewer.dll
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\bin\Debug\Patagames.Pdf.xml
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\bin\Debug\PdfiumViewer.xml
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\bin\Debug\nl\PdfiumViewer.resources.dll
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\bin\Debug\x64\pdfium.dll
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\bin\Debug\x86\pdfium.dll
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Order.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Notifications.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Splash.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Template.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Home.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Client.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.ClientDosage.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma [27.09.2015]\Anam Pharma\Anam Pharma\bin\Debug\Anam Pharma.exe.config
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma [27.09.2015]\Anam Pharma\Anam Pharma\obj\Debug\Interop.AcroPDFLib.dll
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma [27.09.2015]\Anam Pharma\Anam Pharma\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma [27.09.2015]\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.csproj.ResolveComReference.cache
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma [27.09.2015]\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.exe
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma [27.09.2015]\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.pdb
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma [27.09.2015]\Anam Pharma\Anam Pharma\bin\Debug\x64\pdfium.dll
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma [27.09.2015]\Anam Pharma\Anam Pharma\bin\Debug\x86\pdfium.dll
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma [27.09.2015]\Anam Pharma\Anam Pharma\bin\Debug\Anam Pharma.exe.manifest
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma [27.09.2015]\Anam Pharma\Anam Pharma\bin\Debug\Anam Pharma.application
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma [27.09.2015]\Anam Pharma\Anam Pharma\bin\Debug\Anam Pharma.exe
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma [27.09.2015]\Anam Pharma\Anam Pharma\bin\Debug\Anam Pharma.pdb
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma [27.09.2015]\Anam Pharma\Anam Pharma\bin\Debug\Patagames.Pdf.dll
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma [27.09.2015]\Anam Pharma\Anam Pharma\bin\Debug\Patagamse.Pdf.WinForms.dll
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma [27.09.2015]\Anam Pharma\Anam Pharma\bin\Debug\PdfiumViewer.dll
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma [27.09.2015]\Anam Pharma\Anam Pharma\bin\Debug\Patagames.Pdf.xml
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma [27.09.2015]\Anam Pharma\Anam Pharma\bin\Debug\PdfiumViewer.xml
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma [27.09.2015]\Anam Pharma\Anam Pharma\bin\Debug\nl\PdfiumViewer.resources.dll
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma [27.09.2015]\Anam Pharma\Anam Pharma\bin\Debug\Interop.AcroPDFLib.dll
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma [27.09.2015]\Anam Pharma\Anam Pharma\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma [27.09.2015]\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.csprojResolveAssemblyReference.cache
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma [27.09.2015]\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Calculator.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma [27.09.2015]\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Client.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma [27.09.2015]\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.ClientDosage.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma [27.09.2015]\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Home.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma [27.09.2015]\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Template.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma [27.09.2015]\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Employee.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma [27.09.2015]\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Login.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma [27.09.2015]\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Notifications.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma [27.09.2015]\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Order.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma [27.09.2015]\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Properties.Resources.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma [27.09.2015]\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.AboutUs.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma [27.09.2015]\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Product.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma [27.09.2015]\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Splash.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma [27.09.2015]\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.csproj.GenerateResource.Cache
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma [27.09.2015]\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.exe.manifest
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma [27.09.2015]\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.application
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma [27.09.2015]\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Reports.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\bin\Debug\Anam Pharma.exe.config
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Interop.AcroPDFLib.dll
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.csproj.ResolveComReference.cache
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.exe
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.pdb
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\bin\Debug\x64\pdfium.dll
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\bin\Debug\x86\pdfium.dll
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\bin\Debug\Anam Pharma.exe.manifest
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\bin\Debug\Anam Pharma.application
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\bin\Debug\Anam Pharma.exe
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\bin\Debug\Anam Pharma.pdb
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\bin\Debug\Patagames.Pdf.dll
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\bin\Debug\Patagamse.Pdf.WinForms.dll
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\bin\Debug\PdfiumViewer.dll
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\bin\Debug\Patagames.Pdf.xml
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\bin\Debug\PdfiumViewer.xml
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\bin\Debug\nl\PdfiumViewer.resources.dll
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\bin\Debug\Interop.AcroPDFLib.dll
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.csprojResolveAssemblyReference.cache
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Calculator.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Client.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.ClientDosage.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Home.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Product.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Reports.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Template.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Employee.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Login.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Notifications.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Order.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Properties.Resources.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.AboutUs.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Splash.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.csproj.GenerateResource.Cache
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.exe.manifest
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.application
+D:\VS Projects - 2015\Malindi Pharmacy\Versions\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.QuickSale.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Current Project\Anam Pharma\Anam Pharma\Anam Pharma\bin\Debug\Anam Pharma.exe.config
+D:\VS Projects - 2015\Malindi Pharmacy\Current Project\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.csproj.ResolveComReference.cache
+D:\VS Projects - 2015\Malindi Pharmacy\Current Project\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.exe
+D:\VS Projects - 2015\Malindi Pharmacy\Current Project\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.pdb
+D:\VS Projects - 2015\Malindi Pharmacy\Current Project\Anam Pharma\Anam Pharma\Anam Pharma\bin\Debug\Anam Pharma.exe.manifest
+D:\VS Projects - 2015\Malindi Pharmacy\Current Project\Anam Pharma\Anam Pharma\Anam Pharma\bin\Debug\Anam Pharma.application
+D:\VS Projects - 2015\Malindi Pharmacy\Current Project\Anam Pharma\Anam Pharma\Anam Pharma\bin\Debug\Anam Pharma.exe
+D:\VS Projects - 2015\Malindi Pharmacy\Current Project\Anam Pharma\Anam Pharma\Anam Pharma\bin\Debug\Anam Pharma.pdb
+D:\VS Projects - 2015\Malindi Pharmacy\Current Project\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.csprojResolveAssemblyReference.cache
+D:\VS Projects - 2015\Malindi Pharmacy\Current Project\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.AboutUs.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Current Project\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Calculator.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Current Project\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Client.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Current Project\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.ClientDosage.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Current Project\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Home.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Current Project\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.QuickSale.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Current Project\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Reports.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Current Project\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Template.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Current Project\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Employee.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Current Project\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Login.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Current Project\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Notifications.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Current Project\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Properties.Resources.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Current Project\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Splash.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Current Project\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.csproj.GenerateResource.Cache
+D:\VS Projects - 2015\Malindi Pharmacy\Current Project\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.exe.manifest
+D:\VS Projects - 2015\Malindi Pharmacy\Current Project\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.application
+D:\VS Projects - 2015\Malindi Pharmacy\Current Project\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.ClientPresDoctor.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Current Project\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Stock.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Current Project\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.EmployeeProfile.resources
+D:\VS Projects - 2015\Malindi Pharmacy\Current Project\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Supplier.resources
+C:\Users\mongi\Documents\ALI\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.csprojAssemblyReference.cache
+C:\Users\mongi\Documents\ALI\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.csproj.ResolveComReference.cache
+C:\Users\mongi\Documents\ALI\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.AboutUs.resources
+C:\Users\mongi\Documents\ALI\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Calculator.resources
+C:\Users\mongi\Documents\ALI\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Client.resources
+C:\Users\mongi\Documents\ALI\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.ClientDosage.resources
+C:\Users\mongi\Documents\ALI\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.ClientPresDoctor.resources
+C:\Users\mongi\Documents\ALI\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.EmployeeProfile.resources
+C:\Users\mongi\Documents\ALI\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Home.resources
+C:\Users\mongi\Documents\ALI\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Stock.resources
+C:\Users\mongi\Documents\ALI\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.QuickSale.resources
+C:\Users\mongi\Documents\ALI\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Reports.resources
+C:\Users\mongi\Documents\ALI\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Template.resources
+C:\Users\mongi\Documents\ALI\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Employee.resources
+C:\Users\mongi\Documents\ALI\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Login.resources
+C:\Users\mongi\Documents\ALI\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Notifications.resources
+C:\Users\mongi\Documents\ALI\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Supplier.resources
+C:\Users\mongi\Documents\ALI\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Properties.Resources.resources
+C:\Users\mongi\Documents\ALI\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Splash.resources
+C:\Users\mongi\Documents\ALI\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.csproj.GenerateResource.cache
+C:\Users\mongi\Documents\ALI\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.csproj.CoreCompileInputs.cache
+C:\Users\mongi\Documents\ALI\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.exe
+C:\Users\mongi\Documents\ALI\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.pdb
+D:\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.csprojAssemblyReference.cache
+D:\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.csproj.ResolveComReference.cache
+D:\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.AboutUs.resources
+D:\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Calculator.resources
+D:\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Client.resources
+D:\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.ClientDosage.resources
+D:\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.ClientPresDoctor.resources
+D:\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.EmployeeProfile.resources
+D:\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Home.resources
+D:\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Stock.resources
+D:\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.QuickSale.resources
+D:\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Reports.resources
+D:\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Template.resources
+D:\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Employee.resources
+D:\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Login.resources
+D:\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Notifications.resources
+D:\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Supplier.resources
+D:\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Properties.Resources.resources
+D:\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam_Pharma.Splash.resources
+D:\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.csproj.GenerateResource.cache
+D:\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.exe
+D:\DEV\ZIZI BINARY\Anam Pharma [21.10.2015] Client Prototype 1.0.0 Installation\Anam Pharma\Anam Pharma\Anam Pharma\obj\Debug\Anam Pharma.pdb

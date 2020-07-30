@@ -1,0 +1,47 @@
+    ?? PLAY WITH ITEM STRIPS AND LOAD TABLE XTRA CURRICULAR
+	
+	 // EMPLOYEE TABLE CLICK EVENT
+        private void employeeGrid_CellClick_1(object sender, DataGridViewCellEventArgs e)
+        {
+            if (e.RowIndex >= 0)
+            {
+                emprec_group.Enabled = true;
+
+                if (empEditTabWasClicked)
+                {
+                    update_btn.Enabled = true;
+                    empEditTabWasClicked = false;
+                    delete_btn.Enabled = false;
+                }
+                if (empRemoveTabWasClicked)
+                {
+                    update_btn.Enabled = false;
+                    delete_btn.Enabled = true;
+                    empRemoveTabWasClicked = false;
+                }
+
+                if ( (empEditTabWasClicked == false) || (empRemoveTabWasClicked == false) ) 
+                {
+                    eid_txt.Enabled = false;        name_txt.Enabled = false;
+                    surname_txt.Enabled = false;    phone_txt.Enabled = false;
+                    role_txt.Enabled = false;       username_txt.Enabled = false;
+                    password_txt.Enabled = false;
+                }
+                else
+                {
+                    eid_txt.Enabled = true; name_txt.Enabled = false;
+                    surname_txt.Enabled = false; phone_txt.Enabled = false;
+                    role_txt.Enabled = false; username_txt.Enabled = false;
+                    password_txt.Enabled = false;
+                }
+
+                DataGridViewRow row = this.employeeGrid.Rows[e.RowIndex];
+
+                eid_txt.Text = row.Cells["Employee ID"].Value.ToString();
+                name_txt.Text = row.Cells["Name"].Value.ToString();
+                surname_txt.Text = row.Cells["Surname"].Value.ToString();
+                phone_txt.Text = row.Cells["Phone"].Value.ToString();
+                role_txt.Text = row.Cells["Role"].Value.ToString();
+                username_txt.Text = row.Cells["Username"].Value.ToString();
+            }
+        }
